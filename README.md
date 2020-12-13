@@ -1,2 +1,3 @@
-# OlehLozynskyy
-short about me
+Hi, I'm Olehm
+
+need to push few words about me here...
